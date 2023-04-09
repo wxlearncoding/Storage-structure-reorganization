@@ -1,4 +1,4 @@
-# public in github for paper
+# this is an example code for paper use
 
 import os
 import shutil
